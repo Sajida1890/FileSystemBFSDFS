@@ -1,14 +1,6 @@
 # FileSystemBFSDFS
 File System Representation and Search Using BFS and DFS in C
 
-# File System Representation and Search Using BFS and DFS
-
-## Activity Details
-- Activity: Challenge 17-B 09
-- Activity ID: SY-S3-B-09
-- Subject: Data Structures and Algorithms
-- Language: C
-
 ## Objective
 To represent a file system as a graph using an adjacency matrix and search for files using BFS and DFS algorithms.
 
